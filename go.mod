@@ -1,3 +1,3 @@
-module gitlab.math.univ-paris-diderot.fr/mbehr/wowchemy-custom-people-block
+module github.com/nbberlin/wowchemy-custom-blocks
 
 go 1.19
